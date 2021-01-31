@@ -1,3 +1,4 @@
+//This program converts feet and inches to meters and centimeters
 #include <iostream>
 using namespace std;
 //Creates a method input that uses call by reference to fill the feet and inches
